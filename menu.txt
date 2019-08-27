@@ -1,0 +1,28 @@
+The Burgatory Menu
+
+Starters
+    Chips & Guacamole   $8
+    Empanadas           $9
+    Cheese fingers      $9
+
+Burgers
+    Lust                $15
+    Gluttony            $13
+    Greed               $15
+    Sloth               $18
+    Wrath               $19
+    Envy                $18
+    Pride               $15
+
+Sides
+    French Fries        $4
+    Onion Rings         $5
+
+Drinks
+    Beer 1              $7
+    Beer 2              $7
+    Beer 3              $7
+
+
+
+
